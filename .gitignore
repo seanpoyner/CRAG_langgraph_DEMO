@@ -184,3 +184,6 @@ cython_debug/
 .langchain/
 langchain_logs/
 langchain_cache/
+
+# dotenv
+.env
